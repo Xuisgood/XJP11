@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm here, ready for the Cybersecurity world
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -39,3 +38,4 @@ a:hover{text-decoration:underline;}
 </ul>
 </body>
 </html>
+I'm here, ready for the Cybersecurity world
